@@ -42,7 +42,7 @@ At a high level, the system is designed as a production‑like ML pipeline with 
 - Python, scikit‑learn, pandas, NumPy  
 - Flask for the web application and monitoring integration  
 - SQLite for training and prediction databases  
-- Custom logging utilities for end‑to‑end observability[page:2]
+- Custom logging utilities for end‑to‑end observability
 
 ---
 
